@@ -92,7 +92,7 @@ The model viewer will open automatically via PythonOCC GUI.
 ## 📹 Video Demonstration
 
 Unlisted video showing both tasks in action:  
-🔗 [YouTube Video Link Here](https://www.youtube.com/watch?v=your_video_link)
+🔗 [YouTube Video Link Here](https://youtu.be/oYs9tj6UIV4)
 
 ---
 
