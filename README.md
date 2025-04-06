@@ -100,7 +100,7 @@ Unlisted video showing both tasks in action:
 
 A PDF report detailing the code logic, approach, and challenges is included in the repo.
 
-- `Report_Osdag_Screening_Task.pdf`
+- `Osdag_IITB_Report.pdf`
 
 ---
 
