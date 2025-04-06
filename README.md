@@ -115,6 +115,14 @@ A PDF report detailing the code logic, approach, and challenges is included in t
 
 ---
 
+## ⚖️ License
+All submissions are licensed under:
+
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+🔗 [View License](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
 ## 👥 Collaborators
 
 GitHub repo shared with: `osdag-admin` (as collaborator)
