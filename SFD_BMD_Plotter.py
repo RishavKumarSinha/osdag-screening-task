@@ -11,7 +11,7 @@ x = df['Distance (m)']
 shear_force = df['SF (kN)']
 bending_moment = df['BM (kN-m)']
 
-# Foe Creating plots
+# For Creating plots
 fig, axs = plt.subplots(1, 2, figsize=(12, 5))
 
 # For Plotting Shear Force Diagram (SFD)
